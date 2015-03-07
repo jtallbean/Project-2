@@ -13,6 +13,10 @@
   padding-right: 5%;
 }
 
+.online {
+  padding-left: 0%;
+}
+
 h1 {
   font-size: 40px;
   color: #F5A623;
@@ -92,11 +96,11 @@ a {
 }
 
 .orange {
-  background-color: #F5AE23;
+  background-color: #CC00FF;
 }
 
 .orange-text {
-  color: #F5AE23;
+  color: #CC00FF;
 }
 
 .white-text {
@@ -116,7 +120,7 @@ a {
 
 /* TODO: Replace with image later */
 #header {
-  background-color: #484848;
+  background-color: #9966FF;
 }
 
 .flex-box {
